@@ -1,4 +1,4 @@
-# Screenflix :- Movie Website with React and Vite
+# Screenflix - Movie Website with React and Vite
 Welcome to the Movie Website project! This website provides an interactive platform to discover and explore movies and TV shows. The project is built using React and Vite for fast development and efficient bundling.
 
 # Features
