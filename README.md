@@ -29,9 +29,9 @@ Start the development server:
 
 bash
 Copy code
-npm run dev
+**npm run dev**
  or
-yarn dev
+**yarn dev**
 Open your web browser and go to http://localhost:3000 to access the website.
 
 Explore the website to discover movies and TV shows, use the search and filtering features, and check out detailed information on individual pages.
@@ -41,9 +41,9 @@ To create a production-ready build, use the following command:
 
 bash
 Copy code
-npm run build
+**npm run build**
  or
-yarn build
+**yarn build**
 The optimized build will be available in the dist directory.
 
 # Contributing
